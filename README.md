@@ -78,7 +78,7 @@ Evaluate on validation and test sets
 
 Save results and figures
 
-##6. Repository Structure
+## 6. Repository Structure
 
 Assignment3/
 ├── main.py                 # Entry script to run everything
