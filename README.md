@@ -78,10 +78,3 @@ Evaluate on validation and test sets
 
 Save results and figures
 
-## 6. Repository Structure
-
-Assignment3/
-├── main.py                 # Entry script to run everything
-├── requirements.txt        # Dependency list
-├── README.md               # This file
-├── outputs/                # Generated after running main.py
