@@ -16,7 +16,7 @@ source .venv/bin/activate          # Mac/Linux
 pip install -r requirements.txt
 ```
 ## 2. How to Run the Experiments
-``bash
+```bash
 python main.py
 ```
 This command will:
@@ -78,9 +78,8 @@ Evaluate on validation and test sets
 
 Save results and figures
 
-6. Repository Structure
-perl
-Copy code
+##6. Repository Structure
+
 Assignment3/
 ├── main.py                 # Entry script to run everything
 ├── requirements.txt        # Dependency list
